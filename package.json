@@ -1,0 +1,31 @@
+{
+  "name": "google-analytics-api",
+  "version": "1.0.0",
+  "description": "A simple gulp setup",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "RickFrom1987",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "2.12.5",
+    "gulp": "3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-s3-publish": "^2.0.0",
+    "gulp-sass": "2.3.1"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {}
+}
